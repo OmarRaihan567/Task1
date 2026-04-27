@@ -11,18 +11,6 @@ namespace Task1
         static void Main(string[] args)
         {
 
-            // Tesing
-
-
-
-
-
-
-
-
-
-
-            
             // Task 1 Main Code
 
             // Welcome Message 
